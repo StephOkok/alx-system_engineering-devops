@@ -1,1 +1,1 @@
-Shell basics and bash scripting
+Shell Redirections
