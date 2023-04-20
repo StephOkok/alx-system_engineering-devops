@@ -17,3 +17,5 @@ sed -i '/^\s*listen /s/listen .*/listen 8080 default_server;/' /etc/nginx/nginx.
 
 # Start the nginx service
 systemctl start nginx
+
+
